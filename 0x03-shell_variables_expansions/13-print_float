@@ -1,2 +1,2 @@
 #!/bin/bash
-ptintf "%0.2f" $NUM
+printf "%0.2f" $NUM
