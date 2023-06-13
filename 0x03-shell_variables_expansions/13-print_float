@@ -1,2 +1,2 @@
 #!/bin/bash
-ptintf "NUM=FLOAT"
+ptintf "%0.2f" $NUM
